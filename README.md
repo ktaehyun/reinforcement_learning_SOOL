@@ -1,3 +1,3 @@
-# Reinforcement_learning_SOOL
+# Reinforcement_Learning_SOOL
 교내 소모임 활동 내용에 대한 정리... 늦게 깃 허브를 접하는 바람에 이제야 내용 정리를 해가는 중이다...
 내일 마저 정리하겠다... ㅠㅠ
